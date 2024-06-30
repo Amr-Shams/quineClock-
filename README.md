@@ -3,6 +3,6 @@
 ## Quick Start
 
 ```console
-$ go run generator.go -- <source file>
+$ make
 ```
 

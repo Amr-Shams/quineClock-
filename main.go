@@ -2,7 +2,7 @@ package main
 import (
 "fmt")
 
-func mainF(){
+func main(){
     src:= "?"
     for _,c:= range src{
         if c == 63{
